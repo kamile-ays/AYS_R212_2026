@@ -1,0 +1,14 @@
+Points clés
+1. [Appliquer les aquis JavaScript]
+J'ai appris à utilisant concrétement JavaScript. 
+En modifiant des class avec classList ou ajouter des événements avec addEventListerner.
+J'ai donc appliquer le modèle Evenement, Etat à rendu.
+
+2. [Réaliser un menu burger, modale accessible, accordéon et thème sombre interactif]
+Avec JavaScript, j'ai mis en place des interactions sur ces éléments là.  
+Avec addEventListener, j'ai compris que cela permettait d'écouter
+les actions de l'utilisateur et de déclencher un comportement
+par la suite.
+
+Utilisation de l'IA
+Je n'ai pas utilisé de l'ia.
