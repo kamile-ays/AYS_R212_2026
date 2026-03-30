@@ -1,0 +1,14 @@
+Points clés
+1. [Données -> Rendu]
+J'ai appris à créer des carte dynamique, pour cela j'ai utilisé "createElement()". 
+
+2. [Créer des filtres interactifs]
+J'ai utilisé addEventListener(), pour permettre des actions sur certains boutons. 
+Avec .filter(), j'ai fais en sorte qu'on puisse afficher que les projets en lien avec 
+le teg choisi. J'ai aussi utilisé localStorage pour permettre la sauvegarde des nouveaux
+projets créer, ainsi lorsque l'on recharge la page, les éléments restes.
+J'ai également fait la première partie bonus, avec data-id,
+j'ai pu ajouter des boutons suprrimer.
+
+Utilisation de l'IA
+Je n'ai pas utilisé de l'ia.
